@@ -1,0 +1,12 @@
+Time Taken in MS for FindingPrimesByDivision in Sequential
+206560
+Time Taken in MS for FindingPrimesByDivision in Parallel using OpenMP
+503677
+Time Taken in MS for FindingPrimesBySundaramSieve in Sequential
+334
+Time Taken in MS for FindingPrimesBySundaram in Parallel using OpenMP
+290
+Time Taken in MS for FindingPrimesByEratosthenesSieve in Sequential
+31530
+Time Taken in MS for FindingPrimesByEratosthenesSieve in Parallel using OpenMP
+63360

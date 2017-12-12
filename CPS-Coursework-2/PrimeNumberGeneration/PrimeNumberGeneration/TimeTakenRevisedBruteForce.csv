@@ -1,0 +1,4 @@
+Time Taken in MS for FindingPrimesByDivisionRevised in Sequential
+135258
+Time Taken in MS for FindingPrimesByDivisionRevised in Parallel using OpenMP
+504238
